@@ -2,6 +2,7 @@ Great beginner friendly React API Project
 
 `Rapid API Link`
 
+https://rapidapi.com/hub
 
 User will need their own API Key and node.js installed 
 
