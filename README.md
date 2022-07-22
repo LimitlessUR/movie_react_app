@@ -1,5 +1,6 @@
 Great beginner friendly React API Project 
 
+Rapid API LInk
 User will need their own API Key and node.js installed 
 
 https://nodejs.org/en/
