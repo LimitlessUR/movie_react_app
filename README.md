@@ -1,3 +1,5 @@
+# Movie Search API
+
 Great beginner friendly React API Project 
 
 `Rapid API Link`
