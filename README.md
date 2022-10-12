@@ -1,6 +1,6 @@
 # Movie Search API
 
-This app allows our Users to search through Thousands of movies old and new. Type some of your favorite movies in the ssearch bar and enjoy!
+This app allows our Users to search through thousands of movies old and new. Type some of your favorite movies in the ssearch bar and enjoy!
 
 Great beginner friendly React API Project 
 
